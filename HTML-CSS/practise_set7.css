@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.navbar1{
+    display:flex;
+    background-color:purple;
+    color:white;
+}
+li{
+    margin:4px 20px;
+    list-style: none;
+}
